@@ -28,7 +28,7 @@ nbconvert==7.17.0
 nbformat==5.10.4
 numpy==2.4.2
 openpyxl==3.1.5
-packaging @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_packaging_1769093650/work
+packaging==25.0
 pandas==2.3.3
 pandocfilters==1.5.1
 pillow==12.1.1
