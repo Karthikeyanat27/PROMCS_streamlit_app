@@ -1,0 +1,19 @@
+# Environments
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+
+# Streamlit secrets (never commit)
+.streamlit/secrets.toml
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Logs / outputs (customize)
+*.log
+outputs/
+results/
